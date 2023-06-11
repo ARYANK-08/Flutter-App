@@ -1,7 +1,6 @@
 # FlutterApp
 Flutter App where users can sign in , post and like .
 Download APK : https://uploadnow.io/f/Z2df51v
-Video Implementation :  https://www.kapwing.com/videos/6486069969c973014e56a3b7
 ➡Features : 
 
 ⚪Google Authentication 
@@ -10,7 +9,15 @@ Video Implementation :  https://www.kapwing.com/videos/6486069969c973014e56a3b7
 
 ⚪Firebase Real-Time Database, all posts, user sign in, and likes are stored and updated in real-time.
 
-Other Users can Like it .![Screenshot 2023-06-11 213309](https://github.com/ARYANK-08/Flutter-App/assets/120780784/375f606d-a9d8-45b4-8fdb-dc18d9171dd9)
+⚪Other Users can Like it .
+
+Video Implementation :
+
+https://github.com/ARYANK-08/Flutter-App/assets/120780784/3e9b48e9-def3-44fb-9747-0a28d13c37c5
+
+
+
+![Screenshot 2023-06-11 213309](https://github.com/ARYANK-08/Flutter-App/assets/120780784/375f606d-a9d8-45b4-8fdb-dc18d9171dd9)
 
 ![Screenshot 2023-06-11 212922](https://github.com/ARYANK-08/Flutter-App/assets/120780784/ff530471-e13e-4c1a-9da7-d410588140ae)
 
@@ -23,6 +30,4 @@ Other Users can Like it .![Screenshot 2023-06-11 213309](https://github.com/ARYA
 
 ![Screenshot 2023-06-11 184017](https://github.com/ARYANK-08/Flutter-App/assets/120780784/2ea07b5e-e515-483a-bd01-f3502e721ca9)
 
-Implementation :
-https://github.com/ARYANK-08/Flutter-App/assets/120780784/85e9b79d-6fb3-4b3b-babb-8d67c759548f
 
